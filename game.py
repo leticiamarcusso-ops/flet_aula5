@@ -21,6 +21,7 @@ def main(page: ft.Page):
            controls=[
                ft.Text(
                    "Qual o nome do ajudante do capitao MEN",
+                   color = "#4232a8",
                    size=24,
                    weight="bold"
                ),
